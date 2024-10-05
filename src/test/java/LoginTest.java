@@ -10,6 +10,8 @@ public class LoginTest {
 
     public static void main(String[] args) {
 
+        // This is a login test created for accessing the salesforce platform
+
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
